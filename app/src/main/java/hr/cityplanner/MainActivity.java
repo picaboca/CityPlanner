@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void kita()
     {
-
+        //testiranje schubi
         
     }
 }
